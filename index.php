@@ -1,0 +1,9 @@
+<?php
+	if(isset($_COOKIE['user'])){
+		$myid=$_COOKIE['user'];
+		echo(header("location:FrontProfile.php?myid=$myid"));
+	}
+	else{
+		echo(header("location:website.html"));
+	}
+?>

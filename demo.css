@@ -1,0 +1,40 @@
+.tf {
+border-radius : 10px;
+font-family : 'Arial' ;
+font-size : 17px;
+height: 35px;
+border: 1px solid #000;
+}
+#tflogin {
+height: 25px;
+}
+.bt{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    border: 1px solid #000;
+	background-color:#69a74e;
+	font-size: 25;
+	}
+#loginbtn{
+    height: 20px;
+    width: 70px;
+	background-color:white;
+	font-size: 14;
+}
+.ta{
+	border-radius : 25px;
+	font-family : 'Arial' ;
+	border: 1px solid #000;
+}
+TextArea:hover{
+	background-color: rgb(209,251,202);
+	font-size: 14;
+}
+li:hover{
+	background-color: rgb(209,251,202);
+	font-size: 17;
+}
+table{
+	border-radius : 15px;
+}
